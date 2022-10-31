@@ -75,7 +75,7 @@
 
                 <TextView
                     android:padding="3dip"
-                    android:text="DAP+"
+                    android:text="Fowl Pox"
                     android:textSize="16sp" />
             </TableRow>
 
@@ -88,7 +88,7 @@
 
                 <TextView
                     android:padding="3dip"
-                    android:text="DAP+"
+                    android:text="Markev's"
                     android:textSize="16sp" />
             </TableRow>
 
@@ -101,7 +101,7 @@
 
                 <TextView
                     android:padding="3dip"
-                    android:text="DAP+ and Rabies"
+                    android:text="Dry Pox"
                     android:textSize="16sp" />
             </TableRow>
 
@@ -114,7 +114,7 @@
 
                 <TextView
                     android:padding="3dip"
-                    android:text="Rabies"
+                    android:text="Newcastle"
                     android:textSize="16sp" />
             </TableRow>
         </TableLayout>
@@ -140,7 +140,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="28dp"
             android:layout_marginTop="20dp"
-            android:text="For Dogs and Cats"
+            android:text="Feeding"
             android:textSize="22sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"

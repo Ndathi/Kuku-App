@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/teal_700"
     >
 
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="274dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        tools:ignore="ImageContrastCheck"
+        app:srcCompat="@drawable/mayainyama" />
+
     <TextView
-        android:layout_width="200dp"
-        android:layout_height="50dp"
-        android:text="buy and sell fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="280dp"
+        android:text="Chicken products"
+        android:textSize="28sp"
+        android:textColor="@color/white"/>
 
-        android:layout_centerInParent="true"
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="309dp"
+        android:layout_marginTop="350dp"
+        app:srcCompat="@drawable/henchick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="640dp"
+        android:text="Chicken and chicks"
         android:textColor="@color/white"
-        android:textSize="20sp" />
-
+        android:textSize="28sp" />
 </RelativeLayout>
