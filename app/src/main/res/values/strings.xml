@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Kuku App</string>
+    <string name="for_Dogs" />
+    <string name="immunisation_information" />
+    <string name="dog_Age" />
+    <string name="dog_Vaccine" />
 </resources>

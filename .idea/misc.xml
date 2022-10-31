@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/KukuApp/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
         <entry key="..\:/KukuApp/app/src/main/res/layout/buyandsell.xml" value="0.20416666666666666" />
+        <entry key="..\:/KukuApp/app/src/main/res/layout/content.xml" value="0.20416666666666666" />
         <entry key="..\:/KukuApp/app/src/main/res/layout/information.xml" value="0.20416666666666666" />
+        <entry key="..\:/KukuApp/app/src/main/res/layout/informationdata.xml" value="0.13" />
       </map>
     </option>
   </component>
